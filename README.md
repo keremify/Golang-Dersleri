@@ -26,7 +26,7 @@ Kopyala
 
 Düzenle
 
-git clone https://github.com/keremify/golang-ders-notlari.git
+git clone https://github.com/keremify/Golang-Dersleri.git
 
 İlgili konuya ait dosyaları incele
 
