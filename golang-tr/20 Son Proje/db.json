@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Çikolata",
+      "categoryId": 1,
+      "unitPrice": 24.99
+    },
+    {
+      "id": "2",
+      "productName": "Su",
+      "categoryId": 1,
+      "unitPrice": 5.99
+    },
+    {
+      "id": "3",
+      "productName": "Klavye",
+      "categoryId": 2,
+      "unitPrice": 799.99
+    },
+    {
+      "id": 4,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 6000
+    },
+    {
+      "id": 4,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 6000
+    },
+    {
+      "id": 5,
+      "productName": "Telefon",
+      "categoryId": 1,
+      "unitPrice": 6000
+    },
+    {
+      "id": 6,
+      "productName": "Tablet",
+      "categoryId": 1,
+      "unitPrice": 13000
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Gıda"
+    },
+    {
+      "id": "2",
+      "categoryName": "Teknoloji"
+    }
+  ],
+  "profile": {
+    "name": "user"
+  }
+}
